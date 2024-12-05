@@ -3,7 +3,7 @@ title: How to Create Persuasive Video Ads That Convert
 date: 2024-11-24
 description: "Les conseils pratiques pour créer des publicités vidéo qui captivent l'attention et génèrent des conversions."
 image: images/cctv2.jpeg
-imageAltAttribute: CCTV Camera
+
 tags:
    - Marketing
 ---
