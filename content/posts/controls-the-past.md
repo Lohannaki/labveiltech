@@ -1,6 +1,6 @@
 ---
 title: How to Create Persuasive Video Ads That Convert
-date: 28.11.2024
+date: 2024-11-24
 description: "As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message and any notes that he himself had made, and dropped them into the memory hole to be devoured by the flames."
 image: images/cctv2.jpeg
 imageAltAttribute: CCTV Camera
