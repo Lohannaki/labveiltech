@@ -1,5 +1,6 @@
 {
   "name": "Winston Smith",
   "title": "Writer & Futurist",
-  "image": "images/author.png"
+  "image": "/author.png"
+  // /fin url/images/nomimage
 }
