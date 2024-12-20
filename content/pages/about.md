@@ -5,7 +5,7 @@ url: "/about/"
 
 ## Mon Ikigai 
 
-![Lohann](../../labveiltech/images/icons/ikigai.png)
+![Lohann](../../about/images/icons/ikigai.png)
 
 
 
