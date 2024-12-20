@@ -3,17 +3,17 @@
     {
       "name": "twitter",
       "url": "https://twitter.com/zerostaticio",
-      "image": "images/social/twitter.svg"
+      "image": "/labveiltech/images/icons/twitter.png"
     },
     {
       "name": "github",
       "url": "https://github.com/zerostaticthemes/hugo-winston-theme",
-      "image": "images/social/github.svg"
+      "image": "/labveiltech/images/icons/gitgub.png"
     },
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com",
-      "image": "images/social/linkedin.svg"
+      "image": "/labveiltech/images/icons/linkedin.png"
     }
   ]
 }
